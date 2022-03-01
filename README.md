@@ -1,2 +1,4 @@
 # coursera-qwiklab-assigment
-Untuk assigment coursera qwiklab modul 3 Introduciton to git
+For coursera qwiklab assigment on module 3 Introduction to Git
+
+I am editing the README file. Adding some more details about the project description.
